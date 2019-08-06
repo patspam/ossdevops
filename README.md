@@ -1,2 +1,2 @@
 # ossdevops
-Example OSS project for experimenting with DevOps tools
+Experiments with OSS-friendly DevOps tools.
