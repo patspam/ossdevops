@@ -1,0 +1,15 @@
+{
+  "name": "Node-ossdevops",
+  "version": "1.0.0",
+  "description": "Example Node project",
+  "main": "index.js",
+  "repository": "git@github.com:patspam/ossdevops.git",
+  "author": "Patrick Donelan <pat@patspam.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
